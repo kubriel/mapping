@@ -1,6 +1,6 @@
 # mapping
 
-<img src=vimix_screenshot1.png>
+<img src=screenshot1.png>
 
 I made this in 2011, and im still using it for our video mapping shows and installations.
 It is 9 point free transform tool to adjust geometry of texture, and possibility to save and load adjusted coordinates.
